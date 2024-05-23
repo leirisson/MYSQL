@@ -1,0 +1,3 @@
+/*QUERY COM AS NOTAS MAIOR OU IGUAL A 5 */
+SELECT * FROM avaliacoes
+WHERE nota >= 4 
